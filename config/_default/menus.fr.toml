@@ -1,0 +1,10 @@
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  identifier = "locale"
+  weight = 100
+  [main.params]
+    action = "locale"

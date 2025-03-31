@@ -1,0 +1,15 @@
+languageCode = "fr"
+languageName = "French"
+languageDirection = "ltr"
+wieght = 1
+
+title = "Donan"
+
+[params.author]
+name = "Donan"
+image = "img/author.jpg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/username" }
+]
