@@ -1,10 +1,25 @@
-[[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
+# -- Menus Configuration --
+# https://jpanther.github.io/congo/docs/configuration/#menus
 
 [[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
+  name = "clips"
+  pageRef = "clips"
+  weight = 10
+
+# [[main]]
+#   identifier = "search"
+#   weight = 99
+#   [main.params]
+#     action = "search"
+
+# [[main]]
+#   identifier = "appearence"
+#   weight = 99
+#   [main.params]
+#     action = "appearance"
+
+# [[main]]
+#   identifier = "locale"
+#   weight = 100
+#   [main.params]
+#     action = "locale"
