@@ -23,6 +23,6 @@ title = "Donan"
     { email = "mailto:donanr@gmail.com" },
     { facebook = "https://www.facebook.com/profile.php?id=100010090934730" },
     { tiktok = "https://tiktok.com/@donanrobinson" },
-    { soundcloud = "https://open.spotify.com/intl-fr/artist/0ha4AJZF2T0PDc6scMdSlW?si=DGDgFm7HTfKKfWwKVgC_6g "},
-    { apple = "https://music.apple.com/fr/artist/donan/1784738941"}
+    { spotify = "https://open.spotify.com/intl-fr/artist/0ha4AJZF2T0PDc6scMdSlW?si=DGDgFm7HTfKKfWwKVgC_6g" },
+    { apple = "https://music.apple.com/fr/artist/donan/1784738941" }
   ]
