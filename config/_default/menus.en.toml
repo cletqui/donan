@@ -6,6 +6,16 @@
   pageRef = "clips"
   weight = 10
 
+[[main]]
+  name = "concerts"
+  pageRef = "concerts"
+  weight = 30
+
+[[main]]
+  name = "photos"
+  pageRef = "photos"
+  weight = 20
+
 # [[main]]
 #   identifier = "search"
 #   weight = 99

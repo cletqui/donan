@@ -1,5 +1,22 @@
-.decoration-primary-500.hover\:underline {
-    font-size: x-large;
-    font-weight: bold;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+.prose {
+    text-align: justify;
+}
+
+html {
+    font-size: 12.5pt;
+}
+
+body {
+    font-family:
+        "Fira Sans",
+        system-ui,
+        -apple-system,
+        /* Firefox supports this but not yet `system-ui` */
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif,
+        "Apple Color Emoji",
+        "Segoe UI Emoji";
 }
