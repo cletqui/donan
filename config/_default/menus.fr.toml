@@ -11,9 +11,43 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "clips"
+  name = "Concerts"
+  pageRef = "concerts"
+  weight = 10
+
+[[main]]
+  name = "Clips"
   pageRef = "clips"
-  weight = 1
+  weight = 20
+
+[[main]]
+  name = "Photos"
+  pageRef = "photos"
+  weight = 30
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://instagram.com/donanrobinson"
+  weight = 100
+
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/@Donan.R"
+  weight = 110
+
+[[main]]
+  identifier = "spotify"
+  pre = "spotify"
+  url = "https://open.spotify.com/artist/0ha4AJZF2T0PDc6scMdSlW"
+  weight = 120
+
+[[main]]
+  identifier = "apple"
+  pre = "apple"
+  url = "https://music.apple.com/fr/artist/donan/1784738941"
+  weight = 130
 
 #[[main]]
 #  name = "Blog"

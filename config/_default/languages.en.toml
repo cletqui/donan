@@ -1,8 +1,8 @@
 disabled = false
 languageCode = "en"
 languageName = "English"
-weight = 1
-title = "Blowfish"
+weight = 2
+title = "Donan"
 
 [params]
   displayName = "EN"
