@@ -11,7 +11,7 @@ title = "Donan"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Site Donan"
-  copyright = "© { year } Donan"
+  copyright = "© { year } [Donan](https://donan.fr/)"
 
 [params.author]
   name = "Donan"
@@ -28,5 +28,6 @@ title = "Donan"
     { youtube = "https://www.youtube.com/@Donan.R" },
     { spotify = "https://open.spotify.com/artist/0ha4AJZF2T0PDc6scMdSlW" },
     { music = "https://music.apple.com/fr/artist/donan/1784738941" },
+    { soundcloud = "https://soundcloud.com/donan_r" },
     { tiktok = "https://tiktok.com/@donanrobinson" },
   ]

@@ -1,14 +1,13 @@
 {
     "name": "cletqui",
-    "img": "",
-    "bio": "developer",
+    "img": "img/cletqui.png",
+    "bio": "Développeur",
     "social": [
-        { "link": "https://linktr.ee/donanrobinson" },
-        { "facebook": "https://www.facebook.com/profile.php?id=100010090934730" },
-        { "instagram": "https://instagram.com/donanrobinson" },
-        { "youtube": "https://www.youtube.com/@Donan.R" },
-        { "spotify": "https://open.spotify.com/artist/0ha4AJZF2T0PDc6scMdSlW" },
-        { "music": "https://music.apple.com/fr/artist/donan/1784738941" },
-        { "tiktok": "https://tiktok.com/@donanrobinson" }
+        { "link": "https://www.cybai.re" },
+        { "github": "https://github.com/cletqui" },
+        { "gitlab": "https://gitlab.com/cletqui/" },
+        { "bluesky": "https://bsky.app/profile/cybai.re" },
+        { "keybase": "https://keybase.io/clet" },
+        { "mug-hot": "https://www.buymeacoffee.com/cletqui" }
     ]
 }

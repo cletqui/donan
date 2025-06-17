@@ -14,9 +14,14 @@
   weight = 3
 
 [[main]]
+  name = "A propos"
+  pageRef = "a-propos"
+  weight = 4
+
+[[main]]
   name = "Boutique"
   pageRef = "boutique"
-  weight = 4
+  weight = 5
 
 [[main]]
   identifier = "instagram"
@@ -44,5 +49,5 @@
 
 [[footer]]
   name = "Infos du site"
-  pageRef = "website"
-  weight = 10
+  pageRef = "a-propos/site"
+  weight = 1
