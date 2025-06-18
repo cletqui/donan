@@ -7,19 +7,19 @@ description: "Donan - Accueil"
 
 ---
 
-# Amor
+# AMOR
 
 {{< lead >}}
-Mon premier EP **AMOR** est maintenant disponible.
+Mon premier EP [AMOR](/ep) est maintenant disponible.
 {{< /lead >}}
 
 {{< button href="#spotify" target="_self" >}}
-{{< icon "spotify" >}} Ecoutez-le sur Spotify
+{{< icon "spotify" >}} Spotify
 {{< /button >}}
 \
 \
 {{< button href="#apple-music" target="_self" >}}
-{{< icon "music" >}} Ecoutez-le sur Apple Music
+{{< icon "music" >}} Apple Music
 {{< /button >}}
 \
 \

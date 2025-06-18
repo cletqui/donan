@@ -22,27 +22,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend just
 
 ## Paroles
 
-##### COUPLET 1
+#### COUPLET 1
 
 Je contemple une dernière fois,
 Mes albums des Strokes et de toi.
 Puis je claque la porte du bagne !
 Et même si nos désirs nous éloignent…
 
-##### REFRAIN
+#### REFRAIN
 
 Promets-moi de jouir encore, Adore, Dévore !
 Les doigts dans la prise de ton corps, Alors, Tu mords,
 Oui, promets-le-moi…
 
-##### COUPLET 2
+#### COUPLET 2
 
 Des décombres tu sors, Et railles notre passé mort,
 « Je ne t’appartiens pas », notre amour en grandira.
 Tu sais, C’est violent comment tu plais,
 Un coeur énorme, Trop loin des normes, Tout ça t’effraie.
 
-##### REFRAIN
+#### REFRAIN
 
 Promets-moi de jouir encore, Adore, Dévore !
 Les doigts dans la prise de ton corps, Alors, Tu mords,
@@ -50,7 +50,7 @@ Les draps en suppliant « encore, Encore, Plus fort ! »
 Un coup d’éclat sur deux accords, Sans remords, Sans remords,
 Oui, promets-le-moi…
 
-##### PONT
+#### PONT
 
 J’ai tout bétonné, dans,
 Jalousie sacrée, quand,
@@ -63,7 +63,7 @@ S’aventurer sur les toits de verre,
 À la recherche d’un vent contraire,
 En équilibre, sur deux artères !
 
-##### REFRAIN
+#### REFRAIN
 
 Nous écouter jouir encore, Adore, Dévore !
 Les doigts dans la prise de ton corps, Alors, Tu mords,
@@ -95,7 +95,7 @@ Donan et Goulven Robinson
 Mathis Deroyer, David Franco
 
 #### Mixage et Mastering
-Eric Cervera, studio Near Deaf Experience 
+Eric Cervera, studio [Near Deaf Experience](https://www.neardeaf.com)
 
 #### Arrangements
 Donan et Goulven Robinson 

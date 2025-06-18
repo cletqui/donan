@@ -13,6 +13,10 @@ La boutique arrive bientôt. Tu pourras y acheter du merch en lien avec mon proj
 
 Sinon, je te laisse aller profiter des mes dernières [vidéos](/vidéos) ou des résumés de mes [concerts](/concerts).
 
-{{< typeit >}}
-Page en cours de construction...
+{{< typeit
+  speed=50
+  lifeLike=true
+  startDelay=1000
+>}}
+Page en cours de construction . . .
 {{< /typeit >}}

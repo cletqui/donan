@@ -8,10 +8,10 @@
   pageRef = "videos"
   weight = 2
 
-[[main]]
-  name = "Concerts"
-  pageRef = "concerts"
-  weight = 3
+#[[main]]
+#  name = "Concerts"
+#  pageRef = "concerts"
+#  weight = 3
 
 [[main]]
   name = "A propos"
@@ -48,6 +48,6 @@
   weight = 13
 
 [[footer]]
-  name = "Infos du site"
-  pageRef = "a-propos/site"
+  name = "Infos du site ℹ️"
+  pageRef = "site/infos"
   weight = 1

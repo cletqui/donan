@@ -1,7 +1,7 @@
 ---
 title: "Matador"
 video: "Vidéo Matador"
-summary: "lorem ipsum"
+summary: ""
 type: "video"
 categories: ["Video"]
 tags: ["video"]

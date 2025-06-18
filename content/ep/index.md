@@ -12,15 +12,17 @@ sharingLinks: false
 Mon premier EP est maintenant disponible.
 {{< /lead >}}
 
+{{< article link="/videos/promets-le-moi/" >}}
+
 Après avoir profité de mon single [Promets-Le-Moi](/videos/promets-le-moi), découvrez mon premier EP **AMOR** disponible sur toutes les plateformes d'écoute.
 
 {{< button href="#spotify" target="_self" >}}
-{{< icon "spotify" >}} Ecoutez-le sur Spotify
+{{< icon "spotify" >}} Spotify
 {{< /button >}}
 \
 \
 {{< button href="#apple-music" target="_self" >}}
-{{< icon "music" >}} Ecoutez-le sur Apple Music
+{{< icon "music" >}} Apple Music
 {{< /button >}}
 
 Ce premier EP a été mixé et masterisé chez Eric Cervera au studio [Near Deaf Experience](https://www.neardeaf/com) à Lanmeur.
