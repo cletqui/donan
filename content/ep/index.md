@@ -14,7 +14,7 @@ Mon premier EP est maintenant disponible.
 
 {{< article link="/videos/promets-le-moi/" >}}
 
-Après avoir profité de mon single [Promets-Le-Moi](/videos/promets-le-moi), découvrez mon premier EP **AMOR** disponible sur toutes les plateformes d'écoute.
+Après avoir profité de mon single [Promets-Le-Moi](/videos/promets-le-moi), découvrez mon premier EP **AMOR**, disponible sur toutes les plateformes d'écoute.
 
 {{< button href="#spotify" target="_self" >}}
 {{< icon "spotify" >}} Spotify
