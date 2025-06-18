@@ -1,11 +1,11 @@
 ---
 title: "Promets-le-Moi"
-description: "Vidéo Promets-le-Moi"
-summary: ""
+description: "Donan - Vidéo Promets-le-Moi"
+summary: "lorem ipsum"
 type: "video"
 categories: ["Video"]
 tags: ["video"]
-showSummary: false
+showSummary: true
 date: 2025-02-14
 draft: false
 ---

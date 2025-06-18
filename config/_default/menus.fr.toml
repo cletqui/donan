@@ -8,10 +8,10 @@
   pageRef = "videos"
   weight = 2
 
-#[[main]]
-#  name = "Concerts"
-#  pageRef = "concerts"
-#  weight = 3
+[[main]]
+  name = "Concerts"
+  pageRef = "concerts"
+  weight = 3
 
 [[main]]
   name = "A propos"

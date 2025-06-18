@@ -1,6 +1,6 @@
 ---
 title: "Informations du site"
-description: "Informations du site"
+description: "Donan - Informations du site"
 draft: false
 
 showDate: false

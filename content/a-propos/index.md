@@ -1,6 +1,6 @@
 ---
 title: "A propos"
-description: "A propos"
+description: "Donan - A propos"
 draft: false
 
 showDate: false

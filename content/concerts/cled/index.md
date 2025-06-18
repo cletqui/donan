@@ -1,16 +1,13 @@
 ---
-title: "Concert 01"
-description: "Concert 01"
+title: "Concert Clederix"
+description: "Donan - Concert Clederix"
+summary: "concert cled"
 type: "concert"
 categories: ["Concert"]
 tags: ["concert"]
-# externalUrl: ""
-showSummary: false
+showSummary: true
 date: 2025-02-14
 draft: false
-
-showAuthor: false
-sharingLinks: false
 ---
 
 Lorem ipsum
@@ -19,8 +16,6 @@ Lorem ipsum
 
 # Gallery
 
-
-<!--
 {{< gallery >}}
   <img src="gallery/01.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/02.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -30,7 +25,7 @@ Lorem ipsum
   <img src="gallery/06.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/07.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
--->
+
 ---
 
 # Carousel

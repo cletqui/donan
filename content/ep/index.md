@@ -1,6 +1,6 @@
 ---
 title: "AMOR"
-description: "Nouvel EP AMOR"
+description: "Donan - Nouvel EP AMOR"
 draft: false
 
 showDate: false
