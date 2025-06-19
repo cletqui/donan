@@ -29,6 +29,12 @@ En savoir plus
 
 ---
 
+# Exoutez-moi sur Spotify
+
+{{< spotify >}}
+
+---
+
 # Vidéos
 
 {{< article link="/videos/matador/" >}}
