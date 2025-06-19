@@ -29,7 +29,7 @@ En savoir plus
 
 ---
 
-# Exoutez-moi sur Spotify
+# Spotify
 
 {{< spotify >}}
 
