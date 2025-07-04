@@ -30,4 +30,6 @@ Lorem ipsum
 
 # Carousel
 
-{{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}
+<!--{{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}-->
+
+{{< carousel images="{https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg,https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg,https://images.pexels.com/photos/3769099/pexels-photo-3769099.jpeg,https://images.pexels.com/photos/375893/pexels-photo-375893.jpeg,https://images.pexels.com/photos/4629625/pexels-photo-4629625.jpeg}" aspectRatio="16-9" interval="5000" >}}

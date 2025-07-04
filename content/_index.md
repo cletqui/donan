@@ -13,12 +13,12 @@ description: "Donan - Accueil"
 Mon premier EP [AMOR](/ep) est maintenant disponible.
 {{< /lead >}}
 
-{{< button href="#spotify" target="_self" >}}
+{{< button href="https://open.spotify.com/album/3K56B6aiTwYSJGselJWpYC?si=5GkRfnW_TZelRUXzDH1kXA" target="_self" >}}
 {{< icon "spotify" >}} Spotify
 {{< /button >}}
 \
 \
-{{< button href="#apple-music" target="_self" >}}
+{{< button href="https://music.apple.com/fr/album/amor-ep/1817122465" target="_self" >}}
 {{< icon "music" >}} Apple Music
 {{< /button >}}
 \
