@@ -29,6 +29,12 @@ En savoir plus
 
 ---
 
+# Spotify
+
+{{< spotify >}}
+
+---
+
 # Vidéos
 
 {{< article link="/videos/matador/" >}}
