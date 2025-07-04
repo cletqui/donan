@@ -31,6 +31,8 @@ defaultBackgroundImage = "img.background.jpg" # used as default for background i
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
+fingerprintAlgorithm = "sha512"
+
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
